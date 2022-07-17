@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 按照顺序运行对应的.ipynb文件即可。
 
-对于Summarization.ipynb，需要首先将实验代码以**.py文件**的形式保存，若使用.ipynb生成的.py文件，则需要**注释掉所有非函数部分**，否则会在import时执行全部代码，花费较长时间。
+对于Summarization.ipynb，需要首先将实验代码以.py文件的形式保存，若使用.ipynb生成的.py文件，则需要**注释掉所有非函数部分**，否则会在import时执行全部代码，花费较长时间。
 
 
 
